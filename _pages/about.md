@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year PhD candidate at the [HKUST NLP Group](https://nlp.hkust-gz.edu.cn/), supervised by [Professor Junxian He](https://junxianhe.github.io/). I graduated from Shanghai Jiao Tong University (SJTU) in June 2024, where I received the Zhiyuan Honor Scholarship.
+I am a first-year PhD candidate at the HKUST NLP Group, supervised by Professor Junxian He. I graduated from Shanghai Jiao Tong University (SJTU) in June 2024, where I received the Zhiyuan Honor Scholarship.
 
 My research focuses on natural language processing and machine learning. My research interests include LLM Reasoning and Reinforcement Learning, Hallucination in Vision-Language Models (VLM), and LLM truthfulness and Interpretability.
 
